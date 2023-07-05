@@ -1,3 +1,5 @@
+# Proyecto de pizzas con blazor
+![Demo de la aplicacion](/wwwroot/img/demo-image.png?raw=true "Demo de la aplicacion")
 
 # Contributing
 
